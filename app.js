@@ -1,3 +1,6 @@
+// $(function(){
+//   $('.box1').slideUp("slow");
+// });
 $(function(){
-  $('.box1').slideUp("slow");
+  $('.box2').fadeIn(700);
 });

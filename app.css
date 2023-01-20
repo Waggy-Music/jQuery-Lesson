@@ -3,3 +3,9 @@
   height:200px;
   width:200px;
 }
+.box2{
+  display:none;
+  background-color:#999999;
+  height:300px;
+  width:200px;
+}
